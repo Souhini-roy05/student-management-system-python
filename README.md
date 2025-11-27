@@ -152,5 +152,34 @@ def main():
 
 # Run the program
 main()
+
+# student-management-system-python/screenshots/
+[MAIN MENU]-
+<img width="436" height="203" alt="Screenshot 2025-11-28 010923" src="https://github.com/user-attachments/assets/0ea5746c-c24f-4338-82ba-024601205404" />
+[ADD STUDENT]- 
+<img width="508" height="402" alt="Screenshot 2025-11-28 004852" src="https://github.com/user-attachments/assets/be3b0114-321a-4bc1-b740-768a731fccf6" />
+<img width="480" height="372" alt="Screenshot 2025-11-28 004904" src="https://github.com/user-attachments/assets/3cc7bee9-5f67-427d-9781-232576a43a25" />
+[VIEW ALL STUDENT]-
+<img width="528" height="331" alt="Screenshot 2025-11-28 004914" src="https://github.com/user-attachments/assets/3eb4eec3-cafc-4f84-9232-efc29efcdb7e" />
+[SEARCH STUDENT]-
+<img width="579" height="323" alt="Screenshot 2025-11-28 004929" src="https://github.com/user-attachments/assets/6a4368bd-6cc5-4924-9aab-4e5938068e87" />
+[UPDATE STUDENT]-
+<img width="510" height="372" alt="Screenshot 2025-11-28 004942" src="https://github.com/user-attachments/assets/e6953e78-3051-4674-9ac5-70804216fae0" />
+[DELETE STUDENT]-
+<img width="579" height="333" alt="Screenshot 2025-11-28 004953" src="https://github.com/user-attachments/assets/d6c0a088-8713-44e1-b2d6-cf3e34c708c8" />
+[CLASS ANALYSIS]-
+<img width="508" height="365" alt="Screenshot 2025-11-28 005003" src="https://github.com/user-attachments/assets/4f1ea0b1-0742-4583-af76-f02d28ff85c2" />
+[SAVE DATA AND EXIT]-
+<img width="453" height="517" alt="Screenshot 2025-11-28 005020" src="https://github.com/user-attachments/assets/5b5abace-8854-4804-b59c-04dd097406c5" />
+
+
+
+
+
+
+
+
+
+
      
    
